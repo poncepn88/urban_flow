@@ -45,3 +45,9 @@
 - feat: suavizado (Gaussian blur) en data/interim/imgs/03_02_blur.
 - feat: detección de bordes (Canny) en data/interim/imgs/03_03_canny.
 - feat: incorporación de gray_path, blur_path y canny_path a group_images.
+
+### [Día 4] - Ejercicio 04
+- feat: extracción de patentes con easyocr (extraer_patente) y normalización.
+- feat: match por SequenceMatcher con umbral 80% contra speeding_fines.csv.
+- feat: dataset enriquecido en data/processed/speeding_fines_image.csv.
+- feat: actualización de group_images.json con las patentes detectadas.
