@@ -33,3 +33,9 @@
 - feat: descarga y descompresión del dataset de imágenes en data/raw/imgs.
 - chore: incorporación de .gitignore para datos crudos.
 - docs: actualización del README.md al contexto del Sprint 2.
+
+### [Día 2] - Ejercicio 02
+- feat: listado de imágenes con nombre y tamaño en KB.
+- feat: clasificación plates/completes por área media.
+- feat: persistencia de group_images en data/interim/group_images.json.
+- feat: función reutilizable mostrar_imagenes (grilla 4x2).
