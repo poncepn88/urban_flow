@@ -24,3 +24,12 @@
 
 ## [Día 7] — Ejercicio 07
 - docs: redacción de conclusiones finales.
+
+
+## Sprint 2
+
+### [Día 1] - Ejercicio 01
+- chore: cambio a la rama Sprint_2 partiendo de Sprint_1.
+- feat: descarga y descompresión del dataset de imágenes en data/raw/imgs.
+- chore: incorporación de .gitignore para datos crudos.
+- docs: actualización del README.md al contexto del Sprint 2.

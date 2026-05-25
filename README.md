@@ -1,9 +1,17 @@
-# Urban Flow — Sprint 1
+# Urban Flow — Sprint 2
 
 ## Objetivo
 
-Aplicar los conocimientos adquiridos en versionado de código, organización, limpieza del código y utilización de Pandas.
+Aplicar los conocimientos adquiridos en el tratamiento de imágenes y la
+programación limpia y clara para determinar qué multas del sistema de
+radares cuentan con evidencia visual válida.
 
 ## Introducción y Contexto
 
-Vaalserberg (Bélgica) cuenta con un sistema de radares urbanos para la detección de infracciones por exceso de velocidad. Los registros históricos provienen de sistemas heredados con errores de formato y datos faltantes. El objetivo del Sprint 1 es depurar ese dataset para incorporarlo al nuevo sistema sin inconsistencias.
+Los radares urbanos de Vaalserberg (Bélgica) generan registros
+administrativos de multas y las cámaras asociadas capturan la evidencia
+visual. No todas las multas tienen imagen, no todas las imágenes
+corresponden a una infracción y puede haber errores de detección. El
+Sprint 2 desarrolla un sistema que cruza el dataset depurado en el
+Sprint 1 con el dataset de imágenes para identificar las multas con
+evidencia visual válida.
