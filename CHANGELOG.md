@@ -39,3 +39,9 @@
 - feat: clasificación plates/completes por área media.
 - feat: persistencia de group_images en data/interim/group_images.json.
 - feat: función reutilizable mostrar_imagenes (grilla 4x2).
+
+### [Día 3] - Ejercicio 03
+- feat: conversión a escala de grises en data/interim/imgs/03_01_gray_scale.
+- feat: suavizado (Gaussian blur) en data/interim/imgs/03_02_blur.
+- feat: detección de bordes (Canny) en data/interim/imgs/03_03_canny.
+- feat: incorporación de gray_path, blur_path y canny_path a group_images.
