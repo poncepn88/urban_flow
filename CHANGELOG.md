@@ -56,3 +56,6 @@
 - feat: métricas de cobertura imagen/multa en dataset procesado.
 - feat: conteo vectorizado de imágenes OCR sin match al 80%.
 - feat: multas IMPAGA con y sin imagen asociada.
+
+### [Día 6] - Ejercicio 06
+- docs: conclusiones Sprint 2 en data/Readme.md.
