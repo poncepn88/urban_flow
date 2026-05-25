@@ -51,3 +51,8 @@
 - feat: match por SequenceMatcher con umbral 80% contra speeding_fines.csv.
 - feat: dataset enriquecido en data/processed/speeding_fines_image.csv.
 - feat: actualización de group_images.json con las patentes detectadas.
+
+### [Día 5] - Ejercicio 05
+- feat: métricas de cobertura imagen/multa en dataset procesado.
+- feat: conteo vectorizado de imágenes OCR sin match al 80%.
+- feat: multas IMPAGA con y sin imagen asociada.
