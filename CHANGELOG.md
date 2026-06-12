@@ -67,3 +67,4 @@ Día 5 (Ej 05): modelo relacional con SQLAlchemy
 Día 6 (Ej 06): creación y poblado de la base de datos transito
 Día 7 (Ej 07): consultas analíticas sobre transito
 Día 8 (Ej 08): base vectorial patente_vectorial
+Día 9 (Ej 09): función buscar_patente_imagen
