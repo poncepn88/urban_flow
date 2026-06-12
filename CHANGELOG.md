@@ -59,3 +59,4 @@
 
 ### [Día 6] - Ejercicio 06
 - docs: conclusiones Sprint 2 en data/Readme.md.
+Día 1 (Ej 01): inicialización de Sprint_3, README y .gitignore

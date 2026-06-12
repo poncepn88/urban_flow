@@ -1,17 +1,14 @@
-# Urban Flow — Sprint 2
+# Urban Flow — Sprint 3
 
 ## Objetivo
+Profesionalizar la solución persistiendo los datos en una base de datos
+relacional mediante el ORM SQLAlchemy, versionando los datos binarios con DVC
+y preparando una base vectorial para búsquedas por imagen.
 
-Aplicar los conocimientos adquiridos en el tratamiento de imágenes y la
-programación limpia y clara para determinar qué multas del sistema de
-radares cuentan con evidencia visual válida.
-
-## Introducción y Contexto
-
-Los radares urbanos de Vaalserberg (Bélgica) generan registros
-administrativos de multas y las cámaras asociadas capturan la evidencia
-visual. No todas las multas tienen imagen, no todas las imágenes
-corresponden a una infracción y puede haber errores de detección. El
-Sprint 2 desarrolla un sistema que cruza el dataset depurado en el
-Sprint 1 con el dataset de imágenes para identificar las multas con
-evidencia visual válida.
+## Introducción y contexto
+Los radares urbanos de Vaalserberg generan multas por exceso de velocidad y
+las cámaras asociadas registran la evidencia visual. Tras depurar los datos
+(Sprint 1) y validar la evidencia visual (Sprint 2), el sistema creció en
+volumen y ya no es viable trabajar únicamente con archivos CSV. En este
+Sprint 3 se migra la información a una base de datos estructurada y se
+versionan los binarios con DVC.
