@@ -65,3 +65,4 @@ Día 3 (Ej 03): modelo lógico del dominio
 Día 4 (Ej 04): función procesar_fila_csv
 Día 5 (Ej 05): modelo relacional con SQLAlchemy
 Día 6 (Ej 06): creación y poblado de la base de datos transito
+Día 7 (Ej 07): consultas analíticas sobre transito
