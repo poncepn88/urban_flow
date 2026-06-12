@@ -61,3 +61,4 @@
 - docs: conclusiones Sprint 2 en data/Readme.md.
 Día 1 (Ej 01): inicialización de Sprint_3, README y .gitignore
 Día 2 (Ej 02): migración de imágenes a DVC
+Día 3 (Ej 03): modelo lógico del dominio
